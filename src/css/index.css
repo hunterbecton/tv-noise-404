@@ -1,3 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'normalize.css';
+@import 'sanitize.css';
+
+.wrapper {
+  background-color: #111827;
+  padding: 5rem 2rem;
+  min-height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  background-color: #f9fafb;
+  padding: 1.5rem 2.5rem;
+  max-width: 80rem;
+}
+
+.title {
+  color: #1f2937;
+  font-weight: 500;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
