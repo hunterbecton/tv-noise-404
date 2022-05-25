@@ -14,7 +14,8 @@
     "postcss": "^8.4.14",
     "postcss-normalize": "^10.0.1",
     "prettier": "^2.6.2",
-    "prettier-plugin-css-order": "^1.2.0"
+    "prettier-plugin-css-order": "^1.2.0",
+    "sharp": "^0.29.3"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
